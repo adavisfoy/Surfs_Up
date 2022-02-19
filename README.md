@@ -1,7 +1,10 @@
 # Surf n' Shake Surf Shop: Statistical Analysis of Proposed Location (Oahu, Hawaii)
 
-## Process Overview: 
-UPDATE THIS - Describe process of what we did: SQLite Database & queries within Python utilizing SQLAlchemy
+## Process High-Level Overview: 
+- Created a SQLite Database
+- Utilized SQLAlchemy to make connection between SQLite database and Python
+- Utilized SQLAlchemy to query our SQLite database from within Python
+- Utilized pandas to create DataFrames of our data in order to run descriptive statistics on the data
 
 ## Overview of the Statistical Analysis:
 
