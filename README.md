@@ -3,7 +3,7 @@
 
 ## Overview of the statistical analysis:
 
-The purpose of this project was to complete further statistical analysis for our client, W. Avy, to help him better understand temperature trends in Oahu, Hawaii. The results of the statistical analysis will help W. Avy decide if Oahu is an ideal location for his surf shop and ensure that his business is sustainable year-round. 
+The purpose of this statistical analysis was to help our client, W. Avy, better understand temperature trends in Oahu, Hawaii. The results of this statistical analysis will help him decide if Oahu is an ideal location for his Surf n' Shake shop and ensure that his combination business is sustainable year-round. 
 
 ## Results:
 
