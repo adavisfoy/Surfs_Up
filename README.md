@@ -2,8 +2,10 @@
 
 ## Process High-Level Overview: 
 - Created a SQLite Database
+  - A SQLite Database differs from a PostgreSQL database in that the "database" is essentially a flat file that resides locally on my computer. It is a quick way to set up a database without requiring a server and offers most of the capabilities of a server-based SQL database.  
 - Utilized SQLAlchemy to make connection between SQLite database and Python
-- Utilized SQLAlchemy to query our SQLite database from within Python
+- Utilized VS Code's Jupyter notebook extension to write the code for our weather analysis. 
+- Utilized SQLAlchemy to query our SQLite database from within Python (VS Code, Jupyter notebook)
 - Utilized pandas to create DataFrames of our data in order to run descriptive statistics on the data
 
 ## Overview of the Statistical Analysis:
