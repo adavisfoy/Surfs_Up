@@ -124,7 +124,9 @@ The descriptive statistics hightlight some key differences in weather between Ju
   - Based on our data, the minimum temperature was 64 degrees in June versus 56 degrees in December. It would be expected for business to be slower at the Surf n' Shake during colder weather.
 - 25th Percentile: Temperature:
   - The 25th percentile for temperature was 73 degrees in June versus 69 degrees in December. 
-  - Therefore, while the minimum temperature in December was 56 degrees, only 25% of temperatures in December were below 69 degrees. This is encouraging because 56 degree temperatures are not the norm in December in Oahu. 
+  - Therefore, while the minimum temperature in December was 56 degrees, only 25% of temperatures in December were below 69 degrees. This is encouraging for business because 56 degree temperatures are not the norm in December in Oahu. 
+- Mean Temperature: 
+  - The mean temperature in June was 74.94 degrees versus 71.04 in December. There is nearly a 4 degree difference in the mean temperature; however, this difference does not seem likely to negatively impact business.  
 
 ## Summary:
 - There is a high-level summary of the results. 
