@@ -2,7 +2,7 @@
 
 ## Process High-Level Overview: 
 - Created a SQLite Database
-  - A SQLite Database differs from a PostgreSQL database in that the "database" is essentially a flat file that resides locally on my computer. It is a quick way to set up a database without requiring a server and offers most of the capabilities of a server-based SQL database. One disadvantage of a SQLite database is that is has few security features than a server-based SQL database.   
+  - A SQLite Database differs from a PostgreSQL database in that the "database" is essentially a flat file that resides locally on my computer. It is a quick way to set up a database without requiring a server and offers most of the capabilities of a server-based SQL database. One disadvantage of a SQLite database is that is has fewer security features than a server-based SQL database.   
 - Utilized SQLAlchemy to make a connection between our SQLite database and Python (VS Code, Jupyter notebook extension).
 - Utilized VS Code's Jupyter notebook extension to write the code for our weather analysis. 
 - Utilized SQLAlchemy to query our SQLite database from within Python (VS Code, Jupyter notebook extension).
@@ -118,13 +118,15 @@ december_prcp_df.describe()
 
 ## Results: Oahu Key Weather Different (June vs. December)
 
-The descriptive statistics hightlight three key differences in weather between June and December: 
+The descriptive statistics hightlight some key differences in weather between June and December: 
 
-- 1
-- 2
-- 3
+- Minimum Temperature: 
+  - Based on our data, the minimum temperature was 64 degrees in June versus 56 degrees in December. It would be expected for business to be slower at the Surf n' Shake during colder weather.
+- 25th Percentile: Temperature:
+  - The 25th percentile for temperature was 73 degrees in June versus 69 degrees in December. 
+  - Therefore, while the minimum temperature in December was 56 degrees, only 25% of temperatures in December were below 69 degrees. This is encouraging because 56 degree temperatures are not the norm in December in Oahu. 
 
 ## Summary:
-
-There is a high-level summary of the results.
+- There is a high-level summary of the results. 
+- Given that the data is over 5 years old, it would be interesting to conduct this analysis on more current data to determine the impact of climate change on the weather in Oahu, Hawaii and its possible impacts on Surf n' Shop's business.
 
